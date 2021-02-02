@@ -1,3 +1,3 @@
 # Poem
 This is an open source poem. All contributions would be great!
-Nice poem mate, I rate 8/8!
+But if you made some mess here, All others would you hate!
